@@ -1,1 +1,3 @@
 Playing around with Rails!
+
+Building the depot app for book - Agile Developement with Rails
